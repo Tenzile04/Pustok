@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Pustok",
+    "\\Pustok\\Areas",
+    "\\Pustok\\Areas\\Manage",
+    "\\Pustok\\Areas\\Manage\\Views",
+    "\\Pustok\\Areas\\Manage\\Views\\DashBoard",
+    "\\Pustok\\Areas\\Manage\\Views\\Feature",
+    "\\Pustok\\Areas\\Manage\\Views\\Shared",
+    "\\Pustok\\Controllers",
+    "\\Pustok\\Models"
+  ],
+  "SelectedNode": "\\Pustok\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
